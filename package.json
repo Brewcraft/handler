@@ -1,0 +1,19 @@
+{
+  "name": "handler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^4.3.0"
+  },
+  "scripts": {
+    "dev": "nodemon .",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix ."
+  },
+  "devDependencies": {
+    "eslint": "^8.18.0",
+    "nodemon": "^2.0.16"
+  }
+}
