@@ -1,6 +1,6 @@
 {
     "server_address": "",
-    "server_port": "",
+    "server_port": 3950,
     "bot_username": "",
     "chatPrefix": "!"
 

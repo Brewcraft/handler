@@ -5,7 +5,8 @@
   "private": true,
   "license": "MIT",
   "dependencies": {
-    "mineflayer": "^4.3.0"
+    "mineflayer": "^4.3.0",
+    "protodef": "^1.15.0"
   },
   "scripts": {
     "dev": "nodemon .",
