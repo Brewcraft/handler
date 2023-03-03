@@ -5,7 +5,9 @@ A simple handler for making [mineflayer](https://mineflayer.prismarine.js.org) b
 ## Scripts
 
 `yarn dev`: Turn your bot on using nodemon (hot reloading package)
+
 `yarn lint`: View ESLint errors/warnings
+
 `yarn lint:fix`: Fix ESLint errors/warnings
 
 
