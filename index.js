@@ -7,7 +7,7 @@ const prefix = config.chatPrefix || '!';
 const options = {
 	host: config.server_address || 'localhost',
 	port: parseInt(config.server_port) || '25565',
-	username: config.bot_username || 'herobrine',
+	username: config.bot_username || 'mineflayer-bot',
 };
 
 const bot = mineflayer.createBot(options);
